@@ -1,6 +1,6 @@
 # Valorant Skins – HTML/CSS Practice Project
 
-This is a simple and visually styled website showcasing some of the most iconic Valorant weapon skin bundles. It was created as a **personal project to practice HTML and CSS** concepts learned in college.
+This is a simple and visually styled website showcasing a selection of Valorant weapon skin bundles. It was created as a **personal project to practice HTML and CSS** concepts learned in college.
 
 The project focuses on structure, layout, responsive design, and interactivity using only HTML and CSS.
 
@@ -19,7 +19,6 @@ The project focuses on structure, layout, responsive design, and interactivity u
 
 ## Preview
 
-> Replace this with a screenshot if you'd like!  
 > ![Screenshot of the homepage](preview.png)
 
 ---
